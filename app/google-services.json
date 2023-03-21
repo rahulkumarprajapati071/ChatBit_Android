@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21905741581",
+    "project_id": "chatbit-65696",
+    "storage_bucket": "chatbit-65696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21905741581:android:b650f4c4b4bfdcfe504244",
+        "android_client_info": {
+          "package_name": "com.glootech.chatbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21905741581-9moo8b78g26biqcgpu5n3pguouhulo7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm3aGVIpCU6gnaZAothogTxrzN9TWU5Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21905741581-9moo8b78g26biqcgpu5n3pguouhulo7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
